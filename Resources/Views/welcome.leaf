@@ -1,0 +1,9 @@
+#set("title") { It works }
+
+#set("body") {
+<div class="welcome">
+    <h1>WELCOME!</h1>
+</div>
+}
+
+#embed("base")
